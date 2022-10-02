@@ -1,0 +1,12 @@
+FileManager
+    Create Folders(Process & Not applicable)
+    Cut and Paste (Process & Not applicable) 
+    Verify file (.xls) 
+
+ExcelManager 
+    Consolidate to Workbook
+
+FolderWatcher
+    Choose folder to watch
+    Manage time interval
+    Monitor folder
